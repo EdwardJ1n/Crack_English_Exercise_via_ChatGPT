@@ -7,10 +7,12 @@ And, I'm WRONG!<br>
 It took me about *5* hours to write a proper prmopt to get the answers that I expected to the question for only one type of question on the exercise (the code is not perfect). It turns out that you need to give a comprehensive and accurate instructions to ChatGPT to get the answer to the question you expect. To do that, you'll first need to have a fully understanding about the exercise, you probably need to complete some questions first to get to know them. If my son want to "cheat" in this way, I'll persuade him to do it, probably not sharing the code with others for good. <br>
 
 This my son's English exercise: <br>
-![English exercise](IMG_2303.jpg)
+<img src='IMG_2303.jpg' width=500>
 
-
-
+Here is the code explanation: <br>
+<img src='2023-12-04_15-40-15.png' width=500>
+<br>
+<img src='2023-12-04_15-41-47.png' width=500>
 
 
 <br>
