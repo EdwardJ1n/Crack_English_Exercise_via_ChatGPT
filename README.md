@@ -10,9 +10,9 @@ This my son's English exercise: <br>
 <img src='IMG_2303.jpg' width=500>
 
 Here is the code explanation: <br>
-<img src='2023-12-04_15-40-15.png' width=500>
+<img src='2023-12-04_15-40-15.png' width=800>
 <br>
-<img src='2023-12-04_15-41-47.png' width=500>
+<img src='2023-12-04_15-41-47.png' width=800>
 
 
 <br>
